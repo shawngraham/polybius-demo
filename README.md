@@ -8,6 +8,8 @@ The dataset is drawn from Neil Brodie's entry in the [Trafficking Culture Projec
 
 Open [Polybius](https://shawngraham.github.io/polybius) in a new window.
 
+To view the results of this tutorial, [see the resulting site here](https://shawngraham.github.io/polybius-demo).
+
 ---
 
 ## Part 1: Preparing Your Data
