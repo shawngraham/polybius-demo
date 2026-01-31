@@ -152,6 +152,8 @@ Under **Mapping & Constraints**:
 
 **What you'll see**: A timeline with all 37 rows ordered by year. Events cluster visibly around 1985–1995 (peak activity) and 1995–2005 (investigation and prosecution).
 
+You can set the timeline to render horizontally or vertically.
+
 **Section 3 — Geographic Spread**
 
 |Setting|	Value|
@@ -173,6 +175,8 @@ Under **Mapping & Constraints**:
 > The map reveals the geographic architecture of Medici's network. Rome was the source — where tombaroli extracted objects from Etruscan and Roman sites. Geneva was the laundry — where objects were cleaned, restored, documented, and given fictitious provenances in the tax-free environment of the Freeport. London was the marketplace — where Sotheby's provided the veneer of legitimate auction provenance. And the terminal destinations were American museums and private collections in New York and Los Angeles. Hover over the markers to see what happened at each location.
 
 **What you'll see**: Markers in Rome, Geneva, London, Paris, New York, Los Angeles, and Santa Marinella. The spatial triangle of Rome–Geneva–London is immediately legible.
+
+You can set the zoom level and the starting map centre in the editor.
 
 **Section 4 — The Network**
 
@@ -309,6 +313,9 @@ Under **Mapping & Constraints**:
 
 **Historical Chronicle**:
 > The Medici case is not merely a story about one man. The network graph shows a system — a supply chain with specialized roles at every stage: extraction (tombaroli), consolidation (Medici), laundering (Geneva Freeport and Sotheby's auction provenances), distribution (dealers like Symes, Hecht, Tchacos, and the Aboutaams), and acquisition (museums and private collectors). The financial data shows that this system moved millions of dollars in cultural property over decades. The timeline shows that it took institutional will — coordinated action by the Carabinieri and Swiss police — to disrupt what market incentives alone could not. The geographic map shows that the system exploited jurisdictional boundaries: objects crossed from Italy to Switzerland to England to the United States precisely because each border crossing made legal accountability harder. These are not four separate stories. They are four views of the same structure, told through the same data.
+
+**Text Card Feature**
+Polybius checks the text in the 'chronicle' section in text cards to auto-detect YouTube and Vimeo URLs in the narrative content and render them as responsive 16:9 iframe embeds. Polybius supports youtube.com/watch?v=, youtu.be/, and vimeo.com/ URL formats. Non-video text around the URLs renders normally
 
 ---
 
